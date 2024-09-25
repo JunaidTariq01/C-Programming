@@ -2,9 +2,9 @@
 int main(){
 int x=0;
 int i,y,z;
-printf("Enter any number :");
+printf("Enter ist number :");
 scanf("%d",&y);
-printf("Enter scd number :");
+printf("Enter second number :");
 scanf("%d",&z);
 for(i=y;i<=z;i++){
     x=x+i;
